@@ -1,0 +1,11 @@
+in\insurance\config\SwaggerConfig.class
+in\insurance\constants\AppConstants.class
+in\ashokit\props\AppProperties.class
+in\insurance\entity\PlanCategory.class
+in\insurance\service\PlanService.class
+in\insurance\rest\PlanRestController.class
+in\insurance\entity\Plan.class
+in\insurance\InsurancePlansApplication.class
+in\insurance\repo\PlanCategoryRepo.class
+in\insurance\repo\PlanRepo.class
+in\insurance\service\PlanServiceImpl.class
